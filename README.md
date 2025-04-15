@@ -21,11 +21,10 @@
 
 ---
 
-| Noah | 프사 | - Cloud 배포 및 관리
-- CI/CD  관리 |
+|  |  |  |
 | --- | --- | --- |
-| Trent | 프사 | - Cloud 배포 및 관리
-- CI/CD  관리 |
+| Noah | 프사 | Cloud 배포 및 관리, CI/CD  관리 |
+| Trent | 프사 | Cloud 배포 및 관리, CI/CD  관리 |
 
 # 4. Cloud Architecture
 
