@@ -1,4 +1,4 @@
-![마롱 이미지.png](/images/마롱이미지.png)
+![마롱이미지.png](/images/marrong.png)
 
 # 1. Overview
 
