@@ -95,9 +95,9 @@
 
 |  | |
 | --- | --- |
-| Github Actions | ![](/images/githubactions.png) |
+| Github Actions | ![](/images/gitHubactions.png) |
 | CodeDeploy | ![](/images/codedeploy.png) |
-| ArgoCD | ![](/images/argocd.png) |
+| ArgoCD | ![](/images/ArgoCD.png) |
 
 ### 5.3 Cooperation
 
